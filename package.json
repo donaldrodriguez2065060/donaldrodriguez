@@ -1,0 +1,28 @@
+{
+  "name": "donaldrodriguez",
+  "version": "1.0.0",
+  "description": "Donaldrodriguez is a Node.js module for simulating quantum operations, including calculating entanglement, performing quantum teleportation, and measuring superposition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donaldrodriguez2065060/donaldrodriguez"
+  },
+  "dependencies": {
+	  "squarunblownett": "1.0.0",
+"marikovmailbory-sdk": "1.0.0",
+"limonovp-mode": "1.0.0",
+"ls-v1-func": "1.0.0",
+"sdk-krotovsemen": "1.0.0",
+"tobogunbar": "1.0.0",
+    "mathjs": "^9.5.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donaldrodriguez2065060/donaldrodriguez/issues"
+  },
+  "homepage": "https://github.com/donaldrodriguez2065060/donaldrodriguez#readme"
+}
